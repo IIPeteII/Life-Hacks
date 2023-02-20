@@ -12,6 +12,7 @@ y = np.random.randint(100,500)
 z = np.random.randint(100,500)
 b = np.random.randint(100,500)
 num_seconds = 3
+
 #script
 
 while True:
